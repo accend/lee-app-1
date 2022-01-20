@@ -1,0 +1,254 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): 
+Site address (URL): 
+WC Version: 6.1.0
+REST API Version: ✔ 6.1.0
+WC Blocks Version: ✔ 6.5.1
+Action Scheduler Version: ✔ 3.4.0
+WC Admin Version: ✔ 3.0.3
+Log Directory Writable: ✔
+WP Version: 5.8.3
+WP Multisite: –
+WP Memory Limit: 256 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_GB
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 7.2.34
+PHP Post Max Size: 32 MB
+PHP Time Limit: 30
+PHP Max Input Vars: 1000
+cURL Version: 7.71.0
+OpenSSL/1.1.1d
+
+SUHOSIN Installed: –
+MySQL Version: 5.6.51-cll-lve
+Max Upload Size: 32 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 5.9.0
+WC Database Prefix: wp_
+Total Database Size: 17.42MB
+Database Data Size: 14.21MB
+Database Index Size: 3.21MB
+wp_woocommerce_sessions: Data: 1.52MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_api_keys: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_attribute_taxonomies: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_downloadable_product_permissions: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wp_woocommerce_order_items: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_order_itemmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_tax_rates: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wp_woocommerce_tax_rate_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_shipping_zones: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woocommerce_shipping_zone_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_shipping_zone_methods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woocommerce_payment_tokens: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_actionscheduler_actions: Data: 0.03MB + Index: 0.03MB + Engine MyISAM
+wp_actionscheduler_claims: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_actionscheduler_groups: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wp_actionscheduler_logs: Data: 0.03MB + Index: 0.03MB + Engine MyISAM
+wp_commentmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_comments: Data: 0.02MB + Index: 0.09MB + Engine InnoDB
+wp_links: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_nf3_actions: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_action_meta: Data: 0.01MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_chunks: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_fields: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_field_meta: Data: 0.02MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_forms: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_form_meta: Data: 0.01MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_objects: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_object_meta: Data: 0.09MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_relationships: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_nf3_upgrades: Data: 0.02MB + Index: 0.00MB + Engine MyISAM
+wp_ngg_album: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_ngg_gallery: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_ngg_pictures: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_options: Data: 2.03MB + Index: 0.13MB + Engine InnoDB
+wp_postmeta: Data: 1.52MB + Index: 0.70MB + Engine InnoDB
+wp_posts: Data: 1.52MB + Index: 0.27MB + Engine InnoDB
+wp_termmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_terms: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_term_relationships: Data: 0.05MB + Index: 0.02MB + Engine InnoDB
+wp_term_taxonomy: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_usermeta: Data: 0.03MB + Index: 0.03MB + Engine InnoDB
+wp_users: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wp_wc_admin_notes: Data: 0.03MB + Index: 0.00MB + Engine MyISAM
+wp_wc_admin_note_actions: Data: 0.01MB + Index: 0.00MB + Engine MyISAM
+wp_wc_category_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_customer_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_download_log: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_wc_order_coupon_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_order_product_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_order_stats: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_order_tax_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_product_meta_lookup: Data: 0.05MB + Index: 0.09MB + Engine InnoDB
+wp_wc_rate_limits: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_reserved_stock: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_tax_rate_classes: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wp_wc_webhooks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wfblockediplog: Data: 0.02MB + Index: 0.01MB + Engine MyISAM
+wp_wfblocks7: Data: 0.03MB + Index: 0.02MB + Engine MyISAM
+wp_wfconfig: Data: 2.03MB + Index: 0.01MB + Engine MyISAM
+wp_wfcrawlers: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wffilechanges: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wffilemods: Data: 1.98MB + Index: 0.40MB + Engine MyISAM
+wp_wfhits: Data: 0.59MB + Index: 0.15MB + Engine MyISAM
+wp_wfhoover: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wfissues: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wp_wfknownfilelist: Data: 1.04MB + Index: 0.12MB + Engine MyISAM
+wp_wflivetraffichuman: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wflocs: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wflogins: Data: 0.35MB + Index: 0.08MB + Engine MyISAM
+wp_wfls_2fa_secrets: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wfls_settings: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wfnotifications: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wfpendingissues: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wfreversecache: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wfsnipcache: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wfstatus: Data: 0.12MB + Index: 0.05MB + Engine MyISAM
+wp_wftrafficrates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wpforms_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_yoast_indexable: Data: 0.42MB + Index: 0.13MB + Engine MyISAM
+wp_yoast_indexable_hierarchy: Data: 0.01MB + Index: 0.05MB + Engine MyISAM
+wp_yoast_migrations: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wp_yoast_primary_term: Data: 0.02MB + Index: 0.02MB + Engine MyISAM
+wp_yoast_seo_links: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_yoast_seo_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+
+### Post Type Counts ###
+
+attachment: 410
+display_type: 7
+envira: 1
+modula-gallery: 1
+nav_menu_item: 90
+nf_sub: 28
+page: 18
+post: 1
+product: 344
+revision: 239
+wpforms: 1
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (13) ###
+
+Envira Gallery Lite: by Envira Gallery Team – 1.8.3.9
+Improved Include Page: by Marios Alexandrou – 1.2
+Ninja Forms: by Saturday Drive – 3.6.7
+Really Simple SSL: by Really Simple Plugins – 5.2.2
+WooCommerce Shipping Label (BASIC): by WebToffee – 2.3.6
+WooCommerce Weight Based Shipping: by weightbasedshipping.com – 5.3.18
+WooCommerce PayPal Checkout Gateway: by WooCommerce – 2.1.3
+WooCommerce PayPal Payments: by WooCommerce – 1.6.4
+WooCommerce: by Automattic – 6.1.0
+Wordfence Login Security: by Wordfence – 1.0.9
+Wordfence Security: by Wordfence – 7.5.7
+Yoast SEO: by Team Yoast – 17.9
+YITH WooCommerce Catalog Mode: by YITH – 2.5.0
+
+### Inactive Plugins (4) ###
+
+Akismet Anti-Spam: by Automattic – 4.2.1
+Hello Dolly: by Matt Mullenweg – 1.7.2
+WooCommerce Admin: by WooCommerce – 3.0.3
+WPForms Lite: by WPForms – 1.7.2
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: GBP (£)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: –
+
+### WC Pages ###
+
+Shop base: ❌ Page visibility should be public
+Basket: #10 - /basket/
+Checkout: #11 - /checkout/
+My account: ❌ Page visibility should be public
+Terms and conditions: ❌ Page not set
+
+### Theme ###
+
+Name: Storefront Child
+Version: 1.0.0
+Author URL: https://www.accend4web.com
+Child Theme: ✔
+Parent Theme Name: Storefront
+Parent Theme Version: 3.9.1
+Parent Theme Author URL: https://woocommerce.com/
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: –
+
+### WooCommerce PayPal Payments ###
+
+Onboarded: –
+Shop country code: GB
+WooCommerce currency supported: ✔
+PayPal card processing available in country: ✔
+Pay Later messaging available in country: ✔
+Webhook status: –
+Vault enabled: –
+Logging enabled: –
+Reference Transactions: –
+Used PayPal Checkout plugin: ✔
+
+### Action Scheduler ###
+
+Complete: 91
+Oldest: 2022-01-20 09:53:27 +0000
+Newest: 2022-01-20 09:54:32 +0000
+
+Pending: 2
+Oldest: 2022-01-21 08:00:37 +0000
+Newest: 2022-01-21 08:00:37 +0000
+
+
+### Status report information ###
+
+Generated at: 2022-01-20 11:43:28 +00:00
+`
